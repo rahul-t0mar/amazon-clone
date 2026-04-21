@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "types": ["jasmine"]
+  }
+}
+
+
+//For auto filling of the jasmine commands which help in writing code instead of auto filling or autocorrect.
